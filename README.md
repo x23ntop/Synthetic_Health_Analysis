@@ -30,6 +30,7 @@ Este repositorio contiene el código y análisis del dataset de salud sintético
 
     /Synthetic_Health_Analysis/
     ├── README.md
+    ├── 2README.ipynb
     ├── Synthetic_dataset.ipynb
     ├── Synthetic_dataset_Complete.ipynb
     ├── corrected_synthetic_data.csv
