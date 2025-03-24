@@ -61,4 +61,4 @@ plt.show()
 
 📜 Licencia
 
-Este proyecto es de uso libre para fines educativos y de análisis de datos.
+Este proyecto es de uso privado y de análisis de datos.
